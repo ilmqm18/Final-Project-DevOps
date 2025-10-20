@@ -348,23 +348,6 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 * **Isolation:** Each app runs in its own environment without conflicts.
 * **Efficiency:** Lightweight compared to full virtual machines.
 
-## **5.Virtual Machine?**
-Virtual Machine (VM), or เครื่องเสมือน, is the complete simulation of a computer system using software on a single physical computer. It is like having "another computer" running inside your main computer (called the Host), utilizing the Host machine's resources (CPU, RAM, Hard Disk, Network).
-
-* Host OS (Primary Operating System): This is the operating system on your real computer (e.g., Windows, macOS, Linux).
-
-* Guest OS (Virtual Operating System): This is the operating system installed and running inside the VM (e.g., you can run Linux or an older version of Windows on a Mac).
-
-* Hypervisor (Emulation Program): This is the software responsible for managing and sharing the Host machine's resources among the various VMs (e.g., VMware, VirtualBox, Hyper-V).
-
-** How a Virtual Machine Works **
-
-A VM functions exactly like a real computer. You can install applications, manage files, and configure settings. The key difference is that it is not tied to physical hardware but connects to and accesses resources through the Hypervisor software, which enables:
-
-Isolation: Each VM operates completely independently. If one VM encounters a problem or gets infected with a virus, it will not affect the Host OS or other VMs.
-
-Resource Emulation: The Hypervisor emulates virtual hardware for the Guest OS, making the Guest OS believe it is running on real hardware.
-
 ## **6. What is a Container?**
 
 A container is a lightweight, standalone package that includes an application and all its dependencies, libraries, and configuration files. Containers share the host OS kernel but run isolated processes.
