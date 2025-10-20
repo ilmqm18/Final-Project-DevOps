@@ -309,7 +309,7 @@ In today’s world, software needs to be built, tested, and deployed faster than
 
 That’s where Docker and DevOps come in.
 Docker helps developers create portable and consistent environments, while DevOps focuses on improving collaboration between development and operations teams.
-Together, they make the process of building and deploying software faster, more reliable, and more efficient. So, let’s start by understanding what Docker really is."*
+Together, they make the process of building and deploying software faster, more reliable, and more efficient.
 
 ## **1. What and Why DevOps?**
 
