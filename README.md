@@ -361,8 +361,10 @@ Docker Compose is a tool for defining and running multi-container Docker applica
 Docker Compose
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2568-10-06 เวลา 07 03 11" src="https://github.com/user-attachments/assets/746b3f16-ce24-4d12-882c-5770580bd161" />
 
+# everything is run in terminal
 ![69677641-3AA5-41AC-8650-399EB959BB5A_4_5005_c](https://github.com/user-attachments/assets/26efea66-2fa3-430a-a354-2207677d4a12)
 
+# everything is run in docker
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2568-10-06 เวลา 07 03 17" src="https://github.com/user-attachments/assets/e321ce37-4e23-49dc-8f7b-adea84176d93" />
 
 # Influx_db
