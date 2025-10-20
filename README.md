@@ -310,11 +310,27 @@ That’s where Docker and DevOps come in.
 Docker helps developers create portable and consistent environments, while DevOps focuses on improving collaboration between development and operations teams.
 Together, they make the process of building and deploying software faster, more reliable, and more efficient. So, let’s start by understanding what Docker really is."*
 
-## **1. What is Docker?**
+## **1. What and Why DevOps?**
+
+DevOps is a set of practices that combines **Development (Dev)** and **Operations (Ops)** to shorten the development lifecycle and deliver high-quality software continuously.
+
+* Focus on collaboration between developers and operations teams.
+* Automates testing, deployment, and monitoring.
+* Speeds up feedback and release cycles.
+
+## **2. Why use DevOps?**
+
+* Faster delivery of software and updates.
+* Improved collaboration and communication.
+* Reduced errors and higher quality.
+* Continuous feedback and improvement.
+
+
+## **3. What is Docker?**
 Docker is an open-source platform that automates the deployment, scaling, and management of applications inside lightweight, portable containers. It allows developers to package applications and their dependencies into a single unit that can run consistently across different environments.
 
 
-## **2. What can Docker do and what can it connect to?**
+## **4. What can Docker do and what can it connect to?**
 
 * Run any application consistently across multiple environments.
 * Package apps with all dependencies (libraries, frameworks, settings).
@@ -324,7 +340,7 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 * Connect to cloud services (AWS, Azure, GCP) and orchestration tools like Kubernetes.
 
 
-## **3. Why use Docker?**
+## **5. Why use Docker?**
 
 * **Consistency:** Solves the "It works on my machine" problem.
 * **Portability:** Move apps between environments without reconfiguration.
@@ -332,12 +348,12 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 * **Efficiency:** Lightweight compared to full virtual machines.
 
 
-## **4. What is a Container?**
+## **6. What is a Container?**
 
 A container is a lightweight, standalone package that includes an application and all its dependencies, libraries, and configuration files. Containers share the host OS kernel but run isolated processes.
 
 
-## **5. What is Docker Compose?**
+## **7. What is Docker Compose?**
 
 Docker Compose is a tool for defining and running multi-container Docker applications using a single YAML file (`docker-compose.yml`). It simplifies the process of starting, stopping, and connecting multiple containers.
 
@@ -352,22 +368,6 @@ Docker Compose
 <img width="1470" height="956" alt="09141D65-B850-4053-A832-CBE9CF72350E" src="https://github.com/user-attachments/assets/172f2423-2168-45e7-9969-737155a71991" />
 
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2568-10-06 เวลา 07 07 22" src="https://github.com/user-attachments/assets/b6c4e824-995a-4732-84cb-d30a8459f050" />
-
-
-## **6. What and Why DevOps?**
-
-DevOps is a set of practices that combines **Development (Dev)** and **Operations (Ops)** to shorten the development lifecycle and deliver high-quality software continuously.
-
-* Focus on collaboration between developers and operations teams.
-* Automates testing, deployment, and monitoring.
-* Speeds up feedback and release cycles.
-
-## **7. Why use DevOps?**
-
-* Faster delivery of software and updates.
-* Improved collaboration and communication.
-* Reduced errors and higher quality.
-* Continuous feedback and improvement.
 
 
 ## **8. Conclusion**
