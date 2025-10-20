@@ -371,6 +371,8 @@ Docker Compose
 
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2568-10-06 เวลา 07 07 22" src="https://github.com/user-attachments/assets/b6c4e824-995a-4732-84cb-d30a8459f050" />
 
+# Cassandra web
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2568-10-20 เวลา 15 54 32" src="https://github.com/user-attachments/assets/1ed76447-b776-45b6-b5e7-884c0f5f9289" />
 
 ## **8. Conclusion**
 
