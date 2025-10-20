@@ -1,4 +1,5 @@
-## How to Install  InfluxDB, PostgreSQL (with pgAdmin), Cassandra (with Web UI) on Docker
+## DevOps setup Docker // Beginner
+## How to Install  InfluxDB, PostgreSQL, Cassandra (with Web UI) on Docker
 
 Sure! Here’s the full step-by-step **installation and setup guide in English** for InfluxDB, PostgreSQL (with pgAdmin), and Cassandra (with Web UI) on Docker, so that all services work like InfluxDB and are accessible from the web.
 
